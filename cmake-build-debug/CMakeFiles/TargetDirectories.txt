@@ -1,0 +1,3 @@
+/Users/alexandre/Documents/GitHub/AutoSens/cmake-build-debug/CMakeFiles/AutoSens.dir
+/Users/alexandre/Documents/GitHub/AutoSens/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alexandre/Documents/GitHub/AutoSens/cmake-build-debug/CMakeFiles/rebuild_cache.dir

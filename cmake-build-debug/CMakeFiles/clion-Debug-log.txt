@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/usr/local/bin/gmake -DCMAKE_C_COMPILER=/usr/local/bin/gcc-13 -DCMAKE_CXX_COMPILER=/usr/local/bin/g++-13 -G "CodeBlocks - Unix Makefiles" -S /Users/alexandre/Documents/GitHub/AutoSens -B /Users/alexandre/Documents/GitHub/AutoSens/cmake-build-debug
+-- Configuring done (0.1s)
+-- Generating done (0.1s)
+-- Build files have been written to: /Users/alexandre/Documents/GitHub/AutoSens/cmake-build-debug
